@@ -1,4 +1,4 @@
-# Notes-Site/Notes-Site2
+# Notes-Site
 
 ## Сайт с заметками 
 
