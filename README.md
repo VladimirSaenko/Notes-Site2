@@ -4,7 +4,9 @@
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-41/Notes-Site/index.html
 
-## Tests: https://vladimirsaenko.github.io/test-failure-NotesSite/ | https://vladimirsaenko.github.io/test-failure2-NotesSite/
+## Tests: 
+### https://vladimirsaenko.github.io/test-failure-NotesSite/ 
+### https://vladimirsaenko.github.io/test-failure2-NotesSite/
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/RwLrZPV
 
