@@ -2,7 +2,7 @@
 
 ## Сайт с заметками 
 
-## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-41/Notes-Site/index.html
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-36/Notes-Site/index.html
 
 ## Tests: 
 ### https://vladimirsaenko.github.io/test-failure-NotesSite/ 
