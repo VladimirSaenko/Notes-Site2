@@ -1,7 +1,5 @@
 # Notes-Site
 
-## Сайт с заметками 
-
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-36/Notes-Site/index.html
 
 ## Tests: 
